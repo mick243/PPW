@@ -1,2 +1,2 @@
 # PPW
-# 프론트 웹 만들어보기 ![QiqiGenshinGIF](https://user-images.githubusercontent.com/39043252/186088326-82dc4c3f-1cbc-4f4f-8718-0ac52a302785.gif)
+# 프론트 웹 만들어보기 ![ASilentVoiceHappyGIF](https://user-images.githubusercontent.com/39043252/186088446-eadfec27-bf66-444e-bc7a-d51943d6b2d4.gif)
