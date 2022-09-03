@@ -1,0 +1,7 @@
+@charset "utf-8";
+@import url('fonts.css');
+
+html{}
+html,body{}
+::-moz-selection{color:white;background-color:#003775;-webkit-text-stroke:initial;}
+::selection{color:white;background-color:#003775;-webkit-text-stroke:initial;}
