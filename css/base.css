@@ -11,3 +11,4 @@ body{
 	-webkit-font-smoothing:subpixel-antialiased;/* antialiased or subpixel-antialiased 웹킷 브라우저 웹폰트 선명하게 처리 */
 	font-variant-ligatures:none;/* fi수정 */
 }
+button{
