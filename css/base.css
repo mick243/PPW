@@ -5,3 +5,9 @@ html{}
 html,body{}
 ::-moz-selection{color:white;background-color:#003775;-webkit-text-stroke:initial;}
 ::selection{color:white;background-color:#003775;-webkit-text-stroke:initial;}
+body{
+	font-family:'Avenir','NanumSquare','Noto Sans Korean','Noto Sans KR','Myriad Pro','돋움','dotum','sans-serif';font-size:1.6px;font-weight:400;color:#666;min-width:320px;
+	-webkit-text-size-adjust:none;/* 모바일에서 text 사이즈 변동 없게 */
+	-webkit-font-smoothing:subpixel-antialiased;/* antialiased or subpixel-antialiased 웹킷 브라우저 웹폰트 선명하게 처리 */
+	font-variant-ligatures:none;/* fi수정 */
+}
