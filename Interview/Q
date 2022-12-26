@@ -1,0 +1,21 @@
+## CS
+☆ 브라우저 주소창에 www.XX.XX 를 입력하면 어떤일이 일어날까?
+☆ GET과 POST의 차이
+☆ 객체 지향 프로그래밍이란?
+☆ 프로세스와 스레드에 대해 설명
+- API 설명
+- 자료구조 Queue와 Stack에 대해 설명
+- DNS에 대해 설명
+
+## JS
+☆ Promis와 Callback의 차이 설명
+☆ Async, Await 사용방법
+☆ Var, let, const 차이 설명
+☆ 이벤트 버블링과 캡처링에 대해 설명
+☆ Closure에 대해 설명
+☆ 실행 컨텍스트에 대해 설명
+☆ Hoisting에 대해 설명
+☆ 프로토타입에 대해 설명
+☆ 불변성을 유즈하려면 어떻게해야하나?
+- Promise를 사용한 비동키 통신과 Async, Await를 사용한 비동기 통신 차이
+- Callback Hell 해결법
